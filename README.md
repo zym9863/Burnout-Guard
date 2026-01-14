@@ -1,3 +1,5 @@
+[🇬🇧 English](./README-EN.md) | [🇨🇳 中文](./README.md)
+
 # 🛡️ Burnout Guard (耗尽卫士)
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
